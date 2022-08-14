@@ -10,3 +10,17 @@
     font-weight: 600;
     margin-bottom: 20px;
   }
+
+  .badge2 {
+    background-color: tomato;
+    width: 10px;
+    height: 10px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: tomato;
+    font-weight: 10;
+    margin-left: 35px;
+
+  }
