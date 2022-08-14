@@ -4,7 +4,7 @@
   
   .more-suggestions {
     margin-top: 50px;
-    border-top: var(--main-border);
+    border-top: var(--gray);
     padding-top: 40px;
   }
   
@@ -24,9 +24,9 @@
   }
   
   .more-suggestions__icon-image {
-    width: 60px;
-    height: 60px;
-    background-color: var(--yellow);
+    width: 50px;
+    height: 50px;
+    background-color: var(--ivory);
     border-radius: 10px;
     display: flex;
     justify-content: center;
@@ -35,6 +35,14 @@
   }
   
   .more-suggestions__icon-image i {
-    font-size: 32px;
-    color: white;
+    font-size: 30px;
+    color: var(--gray);
+  }
+
+  .more-suggestions__icon-image img {
+
+    width : 30px;
+    height : 30px;
+    font-size: 15px;
+
   }
