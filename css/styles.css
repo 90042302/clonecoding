@@ -23,7 +23,11 @@
 body {
   color: var(--gray);
   font-family: 'Gamja Flower', cursive;
+  background-color: var(--whiteblue);
 }
+
+
+
 .main-screen {
   padding: 0px var(--horizontal-space);
 }
