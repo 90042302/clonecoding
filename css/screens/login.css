@@ -53,3 +53,13 @@
     color: inherit;
     font-size: 13px;
   }
+
+
+  .start_img img{
+
+    display: block;
+    margin : 0px auto;
+    height : 100px;
+    width : 100px;
+
+  }
