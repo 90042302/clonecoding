@@ -3,9 +3,9 @@
   }
   
   .more-suggestions {
-    margin-top: 50px;
+    margin-top: 20px;
     border-top: var(--gray);
-    padding-top: 40px;
+    padding-top: 20px;
   }
   
   .more-suggestions__title {
