@@ -22,6 +22,8 @@
     flex-direction: column;
     align-items: center;
   }
+
+ 
   
   .more-suggestions__icon-image {
     width: 50px;
@@ -52,4 +54,8 @@
     padding: 10px 0px;
 
     border-bottom: var(--main-border);
+  }
+
+  .user-component__subtitle i {
+    color : red;
   }

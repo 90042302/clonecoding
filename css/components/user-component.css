@@ -53,3 +53,10 @@
     margin-bottom: 10px;
     display: block;
   }
+
+  .user-component__column_memo {
+    font-size: 30px;
+    color: var(--gray);
+    width : 30px;
+    height: 30px;
+  }

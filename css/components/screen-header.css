@@ -16,6 +16,8 @@
     margin-left: 25px;
   }
   
+
+  /*설정화면 효과 */
   @keyframes rotateCog {
     from {
       transform: none;
@@ -27,4 +29,50 @@
   
   .screen-header__icons .fa-cog:hover {
     animation: rotateCog 1s linear infinite;
+  }
+
+
+  /*뮤직에 효과 */
+
+  
+  .screen-header__icons .fa-music:hover {
+    transform: rotateY( 180deg );
+
+  }
+
+  .screen-header__icons .fa-search:hover{
+
+    transform: scale( 1.5 );
+  }
+
+  .screen-header__icons_more i {
+       /*
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left : 15px;
+    padding: var(--horizontal-space);
+    */
+    margin-left: 15px;
+    color : #FF6D1E;
+    
+  }
+
+  
+  .screen-header__icons_more .fa-cog:hover {
+    animation: rotateCog 1s linear infinite;
+  }
+
+
+  /*뮤직에 효과 */
+
+  
+  .screen-header__icons_more .fa-music:hover {
+    transform: rotateY( 180deg );
+
+  }
+
+  .screen-header__icons_more .fa-search:hover{
+
+    transform: scale( 1.5 );
   }

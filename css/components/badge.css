@@ -13,14 +13,14 @@
 
   .badge2 {
     background-color: tomato;
-    width: 10px;
-    height: 10px;
+    width: 5px;
+    height: 5px;
     border-radius: 15px;
     display: flex;
     justify-content: center;
     align-items: center;
     color: tomato;
-    font-weight: 10;
+    font-weight: 3;
     margin-left: 35px;
 
   }
